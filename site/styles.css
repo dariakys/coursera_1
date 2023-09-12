@@ -1,0 +1,30 @@
+.flex-container {
+	display: flex;
+}
+.flex-container2 {
+	display: flex;
+	justify-content: center;
+}
+header {
+	width: 100%;
+	background: #57375D;
+	padding: 20px;
+	color: whitesmoke;
+	text-align: center;
+}
+body {
+	margin: 0;
+	font-family: 'Inconsolata', monospace;
+	font-family: 'Lora', serif;
+}
+#module2 {
+	background: #FF3FA4;
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 20px;
+}
+a {
+	color: whitesmoke;
+	text-decoration: none;
+}
